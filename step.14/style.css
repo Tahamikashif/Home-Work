@@ -1,0 +1,63 @@
+*{
+margin: 0px;
+padding: 0px;
+
+}
+
+.first {
+
+width: 450px;
+height: 300px;
+background-color: rgb(163, 119, 62);
+border: 2px solid;
+border-right: 120px;
+border-radius: 10px;
+}
+
+.first button{
+
+justify-content: center;
+align-items: center;
+margin:15px;
+margin-top: 160px;
+
+
+
+}
+
+.first input{
+
+margin-left: 50px;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

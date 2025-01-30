@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#my{
+
+min-width: max-content;
+inset: -20px -20px auto auto;
+transform: translate(-20.6667px,60.6667px,0px);
+
+}

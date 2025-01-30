@@ -1,0 +1,22 @@
+{
+  "name": "step-10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "module": "chalk",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.14.12"
+  },
+  "dependencies": {
+    "@inquirer/prompts": "^5.3.2",
+    "inquirer": "^10.1.2"
+  }
+}
